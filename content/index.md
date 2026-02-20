@@ -1,28 +1,42 @@
-# 🛡️ Pathfinder 2e Brasil - Wiki de Classes
+# 🛡️ Pathfinder 2e Brasil - Wiki
 
-Bem-vindo à nossa biblioteca traduzida de classes para **Pathfinder 2e**. Este projeto foi criado para facilitar o acesso às regras e mecânicas das classes de forma organizada e limpa.
-
----
-
-### 📚 Navegação por Tipo de Classe
-Escolha uma categoria para explorar as habilidades, perícias e progressões:
-
-#### **Classes Core (Livro Básico)**
-* ⚔️ [[Guerreiro|Guerreiro (Fighter)]] - O mestre das armas.
-* 🧙 [[Mago|Mago (Wizard)]] - Conhecimento arcano supremo.
-* 🌿 [[Druida|Druida (Druid)]] - O poder da natureza.
-
-#### **Classes de Expansão (Remaster & Outros)**
-* 🐉 [[Magus|Magus]] - A união perfeita entre espada e feitiço.
-* ⛩️ [[Animista|Animista (Animist)]] - Comunhão com os espíritos.
-* ⚙️ [[Inventor|Inventor]] - Engenhosidade e engrenagens.
+Bem-vindo à biblioteca traduzida de **Pathfinder 2e**. Este projeto centraliza regras, classes e ancestralidades extraídas do *Archives of Nethys*, organizadas para consulta rápida durante a sessão.
 
 ---
 
-### 🛠️ Utilidades
-* [[Regras_Gerais|📜 Regras de Proficiência]]
-* [[Condicoes|Condições de Combate]]
-* [[Glossario|📖 Glossário de Termos Técnicos]]
+### 🎭 Criação de Personagem
+Antes de começar sua jornada, entenda os pilares da sua ficha:
+
+* 🌍 **[[ancestries/index|Ancestralidades]]**: Sua herança e linhagem biológica.
+* 🛠️ **[[Criação de Personagem|Guia de Iniciante]]**: Passo a passo para criar seu herói do zero.
+* 🏅 **[[PFS_Regras|Regras de Sociedade (PFS)]]**: Entenda os ícones de raridade.
 
 ---
-> **Nota de Créditos:** Todo o conteúdo original pertence à **Paizo Inc.** e foi extraído do [Archives of Nethys](https://2e.aonprd.com). Tradução automatizada para fins de estudo e uso pessoal.
+
+### 📚 Classes Disponíveis
+Explore as habilidades, perícias e progressões de cada caminho:
+
+#### **Combatentes e Especialistas**
+* ⚔️ [[Guerreiro|Guerreiro (Fighter)]] | 🛡️ [[Campeão|Campeão (Champion)]]
+* 👤 [[Ladino|Ladino (Rogue)]] | 🏹 [[Patrulheiro|Patrulheiro (Ranger)]]
+* 🤺 [[Espadachim|Espadachim (Swashbuckler)]] | 🔫 [[Pistoleiro|Pistoleiro (Gunslinger)]]
+
+#### **Conjuradores e Místicos**
+* 🧙 [[Mago|Mago (Wizard)]] | 🔮 [[Feiticeiro|Feiticeiro (Sorcerer)]]
+* 🌿 [[Druida|Druida (Druid)]] | ⛪ [[Clérigo|Clérigo (Cleric)]]
+* 🕯️ [[Bruxo|Bruxo (Witch)]] | 🧘 [[Monge|Monge (Monk)]]
+
+#### **Tecnologia e Inovação**
+* ⚙️ [[Inventor]] | 🧪 [[Alquimista|Alquimista (Alchemist)]]
+* ⚡ [[Cineticista|Cineticista (Kineticist)]] | 🤖 [[Magus]]
+
+---
+
+### 📜 Referência Rápida
+* **[[Regras_Gerais|Regras de Proficiência]]**: Como os bônus funcionam.
+* **[[Condicoes|Condições de Combate]]**: Estados de status e penalidades.
+* **[[Glossario|Glossário Técnico]]**: Tradução de termos específicos.
+
+---
+> [!NOTE]
+> **Nota de Créditos:** Todo o conteúdo original pertence à **Paizo Inc.** e foi extraído do *Archives of Nethys*. Tradução e automação via Python por **Felps**.
